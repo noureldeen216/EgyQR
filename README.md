@@ -17,7 +17,7 @@ Click Generate to create your QR code
 Save the QR code as an image
 
 📥 Download
-🔗 Click here to download (Replace with your GitHub release link)
+🔗 Click here to download (https://github.com/noureldeen216/QRCode-generator-Tool/releases/tag/v1.1)
 
 💻 Compatibility
 ✅ Windows
