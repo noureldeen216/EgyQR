@@ -24,6 +24,19 @@ Save the QR code as an image
 ❌ Linux 
 ❌ Macbook
 
+🚨 Antivirus Warning Guide
+If your antivirus flags this program as dangerous, it's likely a false positive. Some antivirus software might mistakenly mark it due to how the code is written.
+
+What to do:
+1-Check the Code: This project is open-source, and you can review the code on GitHub to make sure it's safe. 🔍
+
+2-Ignore the Warning (If Safe): If you trust the source, you can temporarily disable your antivirus and run the program. ⚠️
+
+3-Report the False Positive: You can submit the file to your antivirus provider for review. 📩
+
+Thanks for understanding! 😊
+
+
 ⚡ About Egycode
 Egycode is a software development project aimed at creating Simple desktop tools.
 
