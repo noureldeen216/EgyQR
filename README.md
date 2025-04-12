@@ -1,4 +1,4 @@
-# QR Code Generator by Egycode
+# EgyQR by Egycode
 A simple and easy-to-use QR Code Generator for your desktop! 🔥
 
 ✨ Features
