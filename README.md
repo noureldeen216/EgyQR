@@ -1,4 +1,4 @@
-# EgyQR by Egycode
+# EgyQR (qr code generator) by Egycode
 A simple and easy-to-use QR Code Generator for your desktop! 🔥
 
 ✨ Features
@@ -28,6 +28,7 @@ Save the QR code as an image
 If your antivirus flags this program as dangerous, it's likely a false positive. Some antivirus software might mistakenly mark it due to how the code is written.
 
 What to do:
+
 1-Check the Code: This project is open-source, and you can review the code on GitHub to make sure it's safe. 🔍
 
 2-Ignore the Warning (If Safe): If you trust the source, you can temporarily disable your antivirus and run the program. ⚠️
